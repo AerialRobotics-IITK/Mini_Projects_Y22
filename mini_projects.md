@@ -7,7 +7,6 @@
 3 in each team
 
 1. Video Tracker
-    - Prof: MK
     - Concepts:
         - Detection
             - ML
@@ -31,7 +30,6 @@
         - Video Tracking
 
 2. Control (/SLAM)
-    -Prof: TT
     -Concepts:
         - GPS + RealSense (Simulation)
         - Controllers + SLAM (Mapping PS)
@@ -52,7 +50,6 @@
         - 3 Controller Implementation with Benchmarking
         - Video based Stabilization
 3. Swarm
-    - Prof: KR
     - Concepts:
         - Multi Drone Communication
         - Networking
@@ -72,7 +69,6 @@
         - Collision Avoidance
         - Leader Following
 4. FPV
-    - Prof:
     - Concepts:
         - Navigation
         - Trajectory Generation
