@@ -37,7 +37,7 @@ This project would lay heavy emphasis on image processing techniques. Further, b
 
 The following details hardware that would be involved apart from the normal build of an autonomous drone.
 
-Onboard Computer: **Jetson**, ****since we would be aiming to implement GPU acceleration using CUDA to enhance the performance of our image processing algorithms.
+Onboard Computer: **Jetson**, since we would be aiming to implement GPU acceleration using CUDA to enhance the performance of our image processing algorithms.
 
 Camera: **RunCam**
 
